@@ -1,2 +1,2 @@
-# discord.js-example
+# discord.js-messagecommands-example
 Coming soon.
